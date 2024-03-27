@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(/Portfolio/img/fly.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 350px 0px;
+}
+
+.skills{
+    padding: 75px 0px;
+}
+
+.btn-div{
+    padding: 15px 0px;
+    display: flex;
+    justify-content: center;
+}
